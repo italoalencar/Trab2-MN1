@@ -1,4 +1,4 @@
-# Descrição do Segundo Trabalho de Métodos Numéricos I
+# Descrição do Trabalho - Tema 2
 
 Em um fenômeno da natureza, os deslocamentos $d1, d2, ..., dn$ são determinados pela solução do sistema de equações lineares $Ad = b$, onde $A$ é a matriz das propriedades, $d$ é o vetor das incógnitas e $b$ é o vetor dos termos independentes (vetor constante). Se um desses deslocamentos exceder $0.4 cm$ em módulo, sérios danos e problemas significativos podem ocorrer.
 
